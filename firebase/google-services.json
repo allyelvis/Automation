@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495031225471",
+    "project_id": "sample-firebase-ai-app-ae531",
+    "storage_bucket": "sample-firebase-ai-app-ae531.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495031225471:android:59c5465f61ee0c16c2834a",
+        "android_client_info": {
+          "package_name": "com.aaappps.editor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMO_JBwRkOmAS4SvudUMYnwqzceYKi5WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495031225471:android:71c7c82c996f44e4c2834a",
+        "android_client_info": {
+          "package_name": "com.aenzbi.posjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMO_JBwRkOmAS4SvudUMYnwqzceYKi5WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
