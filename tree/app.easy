@@ -1059,10 +1059,6 @@
                                         "_id_": 248,
                                         "_type": "False"
                                     },
-                                    "onNonEmptyString": {
-                                        "_id_": 249,
-                                        "_type": "True"
-                                    },
                                     "value": {
                                         "_id_": 250,
                                         "_type": "Variable.Get",
@@ -1071,6 +1067,10 @@
                                             "_type": "String",
                                             "value_": "text"
                                         }
+                                    },
+                                    "onNonEmptyString": {
+                                        "_id_": 249,
+                                        "_type": "True"
                                     }
                                 },
                                 "action": {
@@ -1255,6 +1255,11 @@
                     "_type": "String",
                     "value_": "You have unsaved changes."
                 },
+                "name": {
+                    "_id_": 292,
+                    "_type": "String",
+                    "value_": "confirmExit"
+                },
                 "negativeButton": {
                     "_id_": 290,
                     "_type": "Dialog.Button",
@@ -1263,11 +1268,6 @@
                         "_type": "String",
                         "value_": "Don't Exit"
                     }
-                },
-                "name": {
-                    "_id_": 292,
-                    "_type": "String",
-                    "value_": "confirmExit"
                 },
                 "positiveButton": {
                     "_id_": 293,
@@ -1291,6 +1291,11 @@
                     "_type": "String",
                     "value_": "This will discard unsaved changes."
                 },
+                "name": {
+                    "_id_": 300,
+                    "_type": "String",
+                    "value_": "confirmDiscard"
+                },
                 "negativeButton": {
                     "_id_": 298,
                     "_type": "Dialog.Button",
@@ -1299,11 +1304,6 @@
                         "_type": "String",
                         "value_": "Cancel"
                     }
-                },
-                "name": {
-                    "_id_": 300,
-                    "_type": "String",
-                    "value_": "confirmDiscard"
                 },
                 "positiveButton": {
                     "_id_": 301,
